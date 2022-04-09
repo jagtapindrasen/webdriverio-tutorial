@@ -4,7 +4,7 @@
   "description": "Sample",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "npx wdio",
     "generate-report": "allure generate allure-results --clean && allure open"
   },
   "author": "Indrasen Ani",
