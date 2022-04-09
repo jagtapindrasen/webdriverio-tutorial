@@ -1,0 +1,68 @@
+{
+  "uid" : "13d274a093435c8f",
+  "name" : "should update the search category",
+  "fullName" : "Ebay Product Search.should update the search category",
+  "historyId" : "a0fe895eaa253a5f98ad59f5df236dc",
+  "time" : {
+    "start" : 1649325904154,
+    "stop" : 1649325914564,
+    "duration" : 10410
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expect $(`#gh-cat option:nth-child(1)`) to have text\n                \n                Expected: \"PC Laptops & Netbookss\"\n                Received: \"PC Laptops & Netbooks\"",
+  "statusTrace" : "Error: Expect $(`#gh-cat option:nth-child(1)`) to have text\n                \n                Expected: \"PC Laptops & Netbookss\"\n                Received: \"PC Laptops & Netbooks\"\n                    at Context.<anonymous> (C:\\Users\\Admin\\Desktop\\webdriverio-tutorial\\test\\specs\\/search.js:48:23)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Search category Ind"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "Critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Ebay Product Search"
+  }, {
+    "name" : "testClass",
+    "value" : "Ebay Product Search"
+  }, {
+    "name" : "testMethod",
+    "value" : "should update the search category"
+  }, {
+    "name" : "package",
+    "value" : "Ebay Product Search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.60"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "13d274a093435c8f.json",
+  "parameterValues" : [ "chrome-100.0.4896.60" ]
+}

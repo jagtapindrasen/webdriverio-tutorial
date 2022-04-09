@@ -1,0 +1,121 @@
+{
+  "uid" : "43c94dd2d2903c50",
+  "name" : "should search for a product and verify the search text value",
+  "fullName" : "Ebay Product Search.should search for a product and verify the search text value",
+  "historyId" : "57fbfad398245af629dc59fcf2a70f10",
+  "time" : {
+    "start" : 1649326312372,
+    "stop" : 1649326316559,
+    "duration" : 4187
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "516ab0f6f1a10a24",
+      "name" : "Screenshot",
+      "source" : "516ab0f6f1a10a24.png",
+      "type" : "image/png",
+      "size" : 483443
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Search Ind"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Ebay Product Search"
+  }, {
+    "name" : "testClass",
+    "value" : "Ebay Product Search"
+  }, {
+    "name" : "testMethod",
+    "value" : "should search for a product and verify the search text value"
+  }, {
+    "name" : "package",
+    "value" : "Ebay Product Search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.60"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "92ac5673576deaf7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649325962385,
+        "stop" : 1649325966691,
+        "duration" : 4306
+      }
+    }, {
+      "uid" : "c618d943c88c3f07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649325900096,
+        "stop" : 1649325904148,
+        "duration" : 4052
+      }
+    }, {
+      "uid" : "fc99ec09ffd196cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649303519047,
+        "stop" : 1649303522011,
+        "duration" : 2964
+      }
+    }, {
+      "uid" : "5e44a7954558daa8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649303252301,
+        "stop" : 1649303256263,
+        "duration" : 3962
+      }
+    }, {
+      "uid" : "51aac6f3c139fe39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649302289330,
+        "stop" : 1649302292453,
+        "duration" : 3123
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43c94dd2d2903c50.json",
+  "parameterValues" : [ "chrome-100.0.4896.60" ]
+}

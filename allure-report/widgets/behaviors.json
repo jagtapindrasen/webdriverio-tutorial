@@ -1,0 +1,48 @@
+{
+  "total" : 5,
+  "items" : [ {
+    "uid" : "3da0fad25e66a234334fbec51e72d257",
+    "name" : "Open brwoser Ind",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "7778b57d9c724f02eb5601cdfb191d09",
+    "name" : "Open brwoser default wala example Ind",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "615b78278f040470d82b4727baf6fced",
+    "name" : "Search Ind",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "251eda85e2300ee64e30918cbfdc6223",
+    "name" : "Search category Ind",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

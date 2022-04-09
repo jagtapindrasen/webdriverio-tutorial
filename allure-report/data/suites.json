@@ -1,0 +1,98 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Ebay Product Search",
+    "children" : [ {
+      "name" : "should open the main url and verify the title",
+      "uid" : "d2d9a574a36bfdb5",
+      "parentUid" : "148be263b0a8a1f681dc2535beeee858",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649326309591,
+        "stop" : 1649326312371,
+        "duration" : 2780
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.60" ]
+    }, {
+      "name" : "should search for a product and verify the search text value",
+      "uid" : "43c94dd2d2903c50",
+      "parentUid" : "148be263b0a8a1f681dc2535beeee858",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649326312372,
+        "stop" : 1649326316559,
+        "duration" : 4187
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.60" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "75b49ff59890d881",
+      "parentUid" : "148be263b0a8a1f681dc2535beeee858",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649326316566,
+        "stop" : 1649326317019,
+        "duration" : 453
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-100.0.4896.60" ]
+    } ],
+    "uid" : "148be263b0a8a1f681dc2535beeee858"
+  }, {
+    "name" : "My Login application",
+    "children" : [ {
+      "name" : "should login with valid credentials",
+      "uid" : "fc311ce561fdf18b",
+      "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649326309592,
+        "stop" : 1649326314545,
+        "duration" : 4953
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.60" ]
+    }, {
+      "name" : "should open a new tab",
+      "uid" : "d4f077a062b799d1",
+      "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649326314545,
+        "stop" : 1649326319537,
+        "duration" : 4992
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.60" ]
+    } ],
+    "uid" : "ff9b43c34a817b44fa9b6edf61b00141"
+  } ]
+}

@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 07 15:41:54 IST 2022","Thu Apr 07 15:41:59 IST 2022","4992","","My Login application","","My Login application","should open a new tab","should open a new tab",""
+"passed","Thu Apr 07 15:41:52 IST 2022","Thu Apr 07 15:41:56 IST 2022","4187","","Ebay Product Search","","Ebay Product Search","should search for a product and verify the search text value","should search for a product and verify the search text value",""
+"passed","Thu Apr 07 15:41:49 IST 2022","Thu Apr 07 15:41:52 IST 2022","2780","","Ebay Product Search","","Ebay Product Search","should open the main url and verify the title","should open the main url and verify the title",""
+"passed","Thu Apr 07 15:41:56 IST 2022","Thu Apr 07 15:41:57 IST 2022","453","","Ebay Product Search","","Ebay Product Search","should update the search category","should update the search category",""
+"passed","Thu Apr 07 15:41:49 IST 2022","Thu Apr 07 15:41:54 IST 2022","4953","","My Login application","","My Login application","should login with valid credentials","should login with valid credentials",""

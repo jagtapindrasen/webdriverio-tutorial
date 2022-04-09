@@ -1,0 +1,105 @@
+{
+  "uid" : "d2d9a574a36bfdb5",
+  "name" : "should open the main url and verify the title",
+  "fullName" : "Ebay Product Search.should open the main url and verify the title",
+  "historyId" : "1dc3043b3e974be82dd35dd6670553e5",
+  "time" : {
+    "start" : 1649326309591,
+    "stop" : 1649326312371,
+    "duration" : 2780
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Open brwoser Ind"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Ebay Product Search"
+  }, {
+    "name" : "testClass",
+    "value" : "Ebay Product Search"
+  }, {
+    "name" : "testMethod",
+    "value" : "should open the main url and verify the title"
+  }, {
+    "name" : "package",
+    "value" : "Ebay Product Search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.60"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7ebf538ff767410e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649325959423,
+        "stop" : 1649325962384,
+        "duration" : 2961
+      }
+    }, {
+      "uid" : "a2828c0a1be6f14c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649325897358,
+        "stop" : 1649325900095,
+        "duration" : 2737
+      }
+    }, {
+      "uid" : "53a4f3bbf063782c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649303516986,
+        "stop" : 1649303519046,
+        "duration" : 2060
+      }
+    }, {
+      "uid" : "f49bcdb8149adc71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649303250047,
+        "stop" : 1649303252300,
+        "duration" : 2253
+      }
+    }, {
+      "uid" : "74bbfb742bdcf333",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649302286888,
+        "stop" : 1649302289330,
+        "duration" : 2442
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2d9a574a36bfdb5.json",
+  "parameterValues" : [ "chrome-100.0.4896.60" ]
+}

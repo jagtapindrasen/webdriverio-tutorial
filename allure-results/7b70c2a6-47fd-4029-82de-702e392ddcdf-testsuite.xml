@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649384946009' stop='1649384962116'>
+    <name>My Login application</name>
+    <title>My Login application</title>
+    <test-cases>
+        <test-case start='1649384946010' status='passed' stop='1649384952646'>
+            <name>should login with valid credentials</name>
+            <title>should login with valid credentials</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='feature' value='Open brwoser default wala example Ind'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-100.0.4896.60'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1649384952647' status='passed' stop='1649384962112'>
+            <name>should open a new tab</name>
+            <title>should open a new tab</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-100.0.4896.60'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6492b208-a48f-4360-b421-1e88d58a18d8-attachment.png' type='image/png' size='35190'/>
+                <attachment title='Console Logs' source='11e787b9-b198-4ca6-8824-c341c50ca0ef-attachment.html' type='text/html' size='316'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

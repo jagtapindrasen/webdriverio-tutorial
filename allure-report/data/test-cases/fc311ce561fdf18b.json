@@ -1,0 +1,105 @@
+{
+  "uid" : "fc311ce561fdf18b",
+  "name" : "should login with valid credentials",
+  "fullName" : "My Login application.should login with valid credentials",
+  "historyId" : "73e8a3d342ed09e79e0e5e5189873eca",
+  "time" : {
+    "start" : 1649326309592,
+    "stop" : 1649326314545,
+    "duration" : 4953
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Open brwoser default wala example Ind"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.60"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cf31db43449ffc69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649325959459,
+        "stop" : 1649325964896,
+        "duration" : 5437
+      }
+    }, {
+      "uid" : "b344e58fccf23611",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649325897355,
+        "stop" : 1649325902768,
+        "duration" : 5413
+      }
+    }, {
+      "uid" : "fb02956052dc8a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649303516984,
+        "stop" : 1649303521670,
+        "duration" : 4686
+      }
+    }, {
+      "uid" : "abea33015892bb90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649303250045,
+        "stop" : 1649303255459,
+        "duration" : 5414
+      }
+    }, {
+      "uid" : "9f5df2aa03b917ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649302286885,
+        "stop" : 1649302291891,
+        "duration" : 5006
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc311ce561fdf18b.json",
+  "parameterValues" : [ "chrome-100.0.4896.60" ]
+}

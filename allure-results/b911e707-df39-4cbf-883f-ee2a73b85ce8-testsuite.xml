@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649386236941' stop='1649386247552'>
+    <name>Ebay Product Search</name>
+    <title>Ebay Product Search</title>
+    <test-cases>
+        <test-case start='1649386236942' status='passed' stop='1649386239771'>
+            <name>should open the main url and verify the title</name>
+            <title>should open the main url and verify the title</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-1'/>
+                <label name='feature' value='Open brwoser Ind'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-99.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1649386239772' status='passed' stop='1649386244247'>
+            <name>should search for a product and verify the search text value</name>
+            <title>should search for a product and verify the search text value</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-1'/>
+                <label name='feature' value='Search Ind'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-99.0'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='83ba30dd-e671-4de5-9150-85f5a9f8a878-attachment.png' type='image/png' size='554624'/>
+            </attachments>
+        </test-case>
+        <test-case start='1649386244256' status='passed' stop='1649386247548'>
+            <name>should update the search category</name>
+            <title>should update the search category</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-1'/>
+                <label name='feature' value='Search category Ind'/>
+                <label name='severity' value='Critical'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-99.0'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ec55f113-995f-4f0c-80fb-337ce34d9058-attachment.png' type='image/png' size='291314'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
