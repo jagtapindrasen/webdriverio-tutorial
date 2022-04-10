@@ -156,6 +156,15 @@ exports.config = {
         addConsoleLogs: true,
       },
     ],
+    [
+      'junit',
+      {
+        outputDir: './report',
+        outputFileFormat: function (options) {
+          return `results-${new Date().getTime()}.xml`;
+        },
+      },
+    ],
   ],
 
   //
